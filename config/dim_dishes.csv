@@ -1,0 +1,19 @@
+dish_id,dish_name,dish_type
+D100,Almond butter toast and egg,B
+D101,Chia yogurt bowl with apple,B
+D102,Strawberry oatmeal delight and egg,B
+D103,Green protein smoothie with mixed berries,B
+D104,Cottage cheese cucumber toast with mixed berries,B
+D200,Honey almond greek yogurt with pear,S
+D201,Berry cottage cheese crunch,S
+D202,Eggs Carrot Hummus,S
+D203,Apple almond delight,S
+D204,Veggie Sticks,S
+D205,Greek yogurt parfait,S
+D206,Trail Mix,S
+D300,Pan-seared chicken power bowl,M
+D301,Beef and veggie stir fry delight,M
+D302,Baked chicken salad,M
+D303,Chickpea and quinoa buddha bowl,M
+D304,Quinoa stuffed peppers,M
+D305,Baked chicken and roasted veggies,M

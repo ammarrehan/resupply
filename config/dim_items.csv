@@ -1,0 +1,65 @@
+item_id,item_category,item_name,transaction_unit,consumption_unit
+I100,Breads and Grains,Whole wheat bread,Loaf,slice
+I101,Breads and Grains,Quick oats,g,cup
+I102,Breads and Grains,Brown rice,g,cup
+I103,Breads and Grains,Quinoa,g,cup
+I104,Breads and Grains,Granola,g,cup
+I105,Fruits,Banana,g,unit
+I106,Fruits,Apple,g,unit
+I107,Fruits,Strawberry,g,g
+I108,Fruits,Blueberries,g,g
+I109,Fruits,Raspberries,g,g
+I110,Fruits,Mixed berries,g,cup
+I111,Fruits,Pear,g,unit
+I112,Vegetables,Tomatoes cherry,g,g
+I113,Vegetables,Tomatoes roma,g,g
+I114,Vegetables,Spinach,bunch,g
+I115,Vegetables,Cucumber,g,g
+I116,Vegetables,Carrot baby,g,g
+I117,Vegetables,Carrot,g,g
+I118,Vegetables,Bell pepper,g,g
+I119,Vegetables,Broccoli,g,g
+I120,Vegetables,Green bean,g,g
+I121,Vegetables,Mixed greens,g,cup
+I122,Vegetables,Mushrooms,g,g
+I123,Vegetables,Zucchini,g,g
+I124,Vegetables,Onion,g,unit
+I125,Vegetables,Corn,g,g
+I126,Vegetables,Eggplant,g,g
+I127,Spices & Seasonings,Salt,g,tsp
+I128,Spices & Seasonings,Cinnamon powder,g,tsp
+I129,Spices & Seasonings,Cumin,g,g
+I130,Spices & Seasonings,Chili powder,g,g
+I131,Spices & Seasonings,Garlic powder,g,tsp
+I132,Spices & Seasonings,Thyme dried,g,tsp
+I133,Spices & Seasonings,Rosemary dried,g,tsp
+I134,Spices & Seasonings,Pepper,g,g
+I135,Spices & Seasonings,Cilantro,g,g
+I136,Dairy & Alternatives,Milk,litre,cup
+I137,Dairy & Alternatives,Cottage cheese,g,cup
+I138,Dairy & Alternatives,Cheese shredded,g,cup
+I139,Dairy & Alternatives,Sour cream,g,cup
+I140,Dairy & Alternatives,Egg,dozen,unit
+I141,Proteins,Chicken breast,g,g
+I142,Proteins,Beef lean,g,g
+I143,Canned goods,Chickpeas,g,cup
+I144,Canned goods,Black beans,g,cup
+I145,Pantry,Cranberries dried,g,g
+I146,Pantry,Pumpkin seeds,g,g
+I147,Pantry,Chia seeds,g,tbsp
+I148,Pantry,Almonds,g,unit
+I149,Pantry,Mixed nuts,g,g
+I150,Pantry,Chocolate chunks dark,g,g
+I151,Condiments,Olive oil,litre,tbsp
+I152,Condiments,Honey,g,tsp
+I153,Condiments,Almond butter,g,tbsp
+I154,Condiments,Coconut shredded,g,g
+I155,Condiments,Vinegrette dressing,g,tbsp
+I156,Condiments,Tahini dressing,g,tbsp
+I157,Condiments,Maple syrup,g,tbsp
+I158,Condiments,Hummus,g,tbsp
+I159,Condiments,Soy sauce ginger,g,tbsp
+I160,Dairy & Alternatives,Greek yogurt,g,cup
+I161,Dairy & Alternatives,Whey Protein,g,g
+I162,Spices & Seasonings,Mint leaves,g,g
+I163,Canned goods,Corn kernels,g,cup
